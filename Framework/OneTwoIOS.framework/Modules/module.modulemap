@@ -1,0 +1,6 @@
+framework module OneTwoIOS {
+  umbrella header "OneTwoIOS.h"
+
+  export *
+  module * { export * }
+}
